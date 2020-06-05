@@ -1,5 +1,5 @@
 CC = gcc
-TARGET = laba7.exe
+TARGET = Lab7.exe
 
 
 .PHONY: all run clean build
