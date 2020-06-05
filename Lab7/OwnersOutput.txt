@@ -1,0 +1,11 @@
+0
+Name - anna
+Phone Number - 2
+Region of flat - q
+Street of flat  - q
+Number of house - 1
+Size if flat - 1
+Floor of flat - 1
+Type of appartment layout - q
+Cost of flat - 1
+ID - 1
